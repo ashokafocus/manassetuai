@@ -1,0 +1,11 @@
+{
+  "name": "manassetu-clinical-ai",
+  "version": "3.0.0",
+  "description": "Multilingual Clinical Intake Agent for Psychiatry",
+  "main": "index.html",
+  "scripts": {
+    "start": "node api/chat.js"
+  },
+  "author": "Dr. P. Rama Krishna Reddy",
+  "license": "ISC"
+}
